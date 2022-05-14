@@ -1,5 +1,4 @@
-This is a demo website created in an Agile project. Katherine Mulder
-
-Hi my name is Kath and I'm from Napier
-
-Today is 22/03/2022 and we are working on Git Merge 
+Hi there this is our first Agile projects
+we have two group memebers for this project 
+we are creating an e-commeerce website 
+there are a bit of our interaction infromation
